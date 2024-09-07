@@ -2,7 +2,7 @@
 @Component
 struct Index {
   @State message: string = 'Hello World';
-  // 测试提交
+  // 测试提交 2
   build() {
     Row() {
       Column() {
